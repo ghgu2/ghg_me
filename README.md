@@ -7,4 +7,5 @@
 
 <h3 align="left">🛠 Технологии и навыки</h3>
 
-<p align="left"> <br>Языки PyTorch, библиотеки LightGBM, XGBoost, CatBoost, sklearn, pandas, numpy.<br><br>фываыфваф<br></p>
+<p align="left"> <br> Языки программирования: Python, C++, SQL. <br><br> Библиотеки: LightGBM, XGBoost, CatBoost, sklearn, pandas, numpy, matplotlib, Scikit-learn, PyTorch, torchvision.<br><br>Технологии: Vertica, PostgreSQL, Microsoft PowerBI, Qlik Sense<br>
+
